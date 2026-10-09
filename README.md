@@ -2,6 +2,8 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2608.16829-b31b1b.svg)](https://arxiv.org/abs/2608.16829)
 
+[English](README.md) | [العربية](README.ar.md)
+
 The official implementation of "CaliBench: Are the Stochastic Dynamics of Video World Models Physically Calibrated?". This work is accepted to **TMLR**.
 
 > [**CaliBench: Are the Stochastic Dynamics of Video World Models Physically Calibrated?**](https://arxiv.org/abs/2608.16829)            
